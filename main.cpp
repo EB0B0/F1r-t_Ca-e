@@ -7,7 +7,8 @@
   
  using namespace std; 
   
- int ans, size; 
+ int ans, size;
+ bool puk = true; 
  bool esc = false; 
  vector <int> vect; 
   

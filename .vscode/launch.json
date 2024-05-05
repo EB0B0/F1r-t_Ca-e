@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/administrator/Documents/GitHub/F1r-t_Ca-e",
+      "program": "/Users/administrator/Documents/GitHub/F1r-t_Ca-e/build/Debug/outDebug"
+    }
+  ]
+}
